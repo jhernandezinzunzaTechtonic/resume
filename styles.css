@@ -1,0 +1,44 @@
+h1 {
+  color: black;
+}
+
+h3 {
+  color: gray;
+  text-align: left;
+}
+
+body {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+li {
+  text-align: left;
+  margin-left: 40px;
+}
+.about div, h1, p {
+  text-align: center;
+}
+
+.about, div, h1, p {
+  /* border: solid 5px black;*/
+}
+
+.seperator-one {
+  background-color: green;
+  opacity: .8;
+  height: 20px;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.seperator-two {
+  background-color: green;
+  opacity: .75;
+  height: 5px;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
