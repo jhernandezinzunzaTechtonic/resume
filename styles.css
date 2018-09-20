@@ -5,23 +5,22 @@ h1 {
 h3 {
   color: gray;
   text-align: left;
+  margin-bottom: 5px;
 }
 
 body {
-  width: 95%;
+  width: 75%;
   margin-left: auto;
   margin-right: auto;
 }
 li {
   text-align: left;
-  margin-left: 40px;
-}
-.about div, h1, p {
-  text-align: center;
+  margin-left: 75px;
+  margin-right: 75px;
 }
 
-.about, div, h1, p {
-  /* border: solid 5px black;*/
+.about div, h1, p {
+  text-align: center;
 }
 
 .seperator-one {
@@ -37,8 +36,17 @@ li {
   background-color: green;
   opacity: .75;
   height: 5px;
-  width: 95%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 40px;
+  margin-top: 5px;
+}
+
+.responsibilites {
+  color: black;
+}
+
+.job-title {
+  text-transform: capitalize;
+  text-align: right;
 }
