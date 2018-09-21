@@ -9,6 +9,7 @@ h3 {
 }
 
 body {
+  background-color: navajoWhite;
   width: 75%;
   margin-left: auto;
   margin-right: auto;
@@ -22,10 +23,20 @@ p {
 }
 li {
   list-style-type: square;
+  color
   text-align: left;
   text-indent: 10px;
   margin-left: 75px;
   margin-right: 75px;
+}
+#myBtn {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+	position: fixed;
+	left: 0px;
+	top: 75%;
+	background-color: salmon;
 }
 
 .about div, h1, p {
